@@ -2,7 +2,7 @@
 
 ![Uploading pic.jpg…]()
 
-This README.md file contains the topics I learned in the NGL3200 course. These topics are categorized as follows:
+This README.md file contains the topics I learned in the NGL3200 . These topics are categorized as follows:
 
 ## Electrical
 - Understanding industrial electrical concepts
